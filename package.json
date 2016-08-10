@@ -1,0 +1,19 @@
+{
+  "name": "anteadamovicnpmtest",
+  "version": "1.0.0",
+  "description": "Test lib",
+  "main": "anteAdamovic-npmTest.js",
+  "scripts": {
+    "test": "console.log anteAdamovicNpmTest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anteAdamovic/anteAdamovic-npmTest.git"
+  },
+  "author": "anteAdamovic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anteAdamovic/anteAdamovic-npmTest/issues"
+  },
+  "homepage": "https://github.com/anteAdamovic/anteAdamovic-npmTest#readme"
+}
